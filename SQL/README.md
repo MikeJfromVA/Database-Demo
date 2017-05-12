@@ -23,7 +23,7 @@ Both applications will be used throughout the semester.
 
 **Docker** is available at [docker.com](docker.com). The installation process is easy to follow, and there are no choices to make. Docker should be running on your computer at the end of this installation process.
 
- ![Screen Shot 2016-09-18 at 8.05.06 PM](Screen Shot 2016-09-18 at 8.05.06 PM.png)
+ ![Screen Shot 2016-09-18 at 8.05.06 PM](Screen%20Shot%202016-09-18%20at%208.05.06%20PM.png)
 
 * Docker installs most cleanly on newer operating systems. Docker will install on older systems, but requires additional components such as Docker Toolkit. You may try to use Docker on older operating systems, but you will need to follow instructions.
 
@@ -103,7 +103,7 @@ The **-p** option forwards network traffic from the container to the host (your 
 
 Open up your favorite web browser and connect to localhost:5050.
 
- ![Screen Shot 2016-09-18 at 8.04.18 PM](Screen Shot 2016-09-18 at 8.04.18 PM.png)
+ ![Screen Shot 2016-09-18 at 8.04.18 PM](Screen%20Shot%202016-09-18%20at%208.04.18%20PM.png)
 
 Once pgAdmin4 loads, right-click **Servers**, select **Create** -> **Server**. One the tabbed wizards, name your server whatever you like then click the *connection* tab. Here you want to fill in :
 
@@ -116,7 +116,7 @@ Once pgAdmin4 loads, right-click **Servers**, select **Create** -> **Server**. O
 
 Hit save and then refresh your browser.
 
-![Screen Shot 2016-09-18 at 8.01.32 PM](Screen Shot 2016-09-18 at 8.01.32 PM.png)
+![Screen Shot 2016-09-18 at 8.01.32 PM](Screen%20Shot%202016-09-18%20at%208.01.32%20PM.png)
 
 Open the server objects, right-click the database and start the Query Tool. Run ```select * from pg_tables;``` as before, and call it a night. 
 
