@@ -567,6 +567,8 @@ plot.grid(True)
 
 ##### Probability
 
+Testing math formatting!
+
 $$
 P(E,F) = P(E)P(F)
 $$
